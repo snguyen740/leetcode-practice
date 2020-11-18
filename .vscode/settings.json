@@ -1,6 +1,7 @@
 {
     "files.associations": {
         "ReverseInteger.C": "cpp",
-        "ContainerWithWater.C": "cpp"
+        "ContainerWithWater.C": "cpp",
+        "MergeKSortedLists.C": "cpp"
     }
 }
